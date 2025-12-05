@@ -145,3 +145,6 @@ combined_copy = combined_copy[~combined_outliers].reset_index(drop=True)
 print("Old shape : ", stock_1.shape, stock_2.shape, combined.shape)
 print("Outliers removed, new shape : ", combined_copy.shape)
 
+
+# --- Exporting the Final File ---
+combined_copy.to_csv('D:/Git/IIT-Madras-Data-Science-Project/Data/Cleaned/Quality_Check.csv', index = False)

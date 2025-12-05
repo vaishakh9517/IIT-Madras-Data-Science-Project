@@ -1,3 +1,6 @@
+# Mime Dime Stock Trend Quality Check
+
+
 This repository contains the deliverables and documentation for a stock market data preprocessing project for “Mine Dime,” a stock trend forecasting company. The aim is to clean, validate and prepare 10 years of stock price and volume data for reliable predictive modeling and trend analysis.
 
 📁 Project Structure
